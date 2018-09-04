@@ -1,0 +1,21 @@
+{
+  "name": "beer-practice-js",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "SSALYI",
+  "license": "unlicensed",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": "https://github.com/szsalyi/beer-practice-js.git"
+}
